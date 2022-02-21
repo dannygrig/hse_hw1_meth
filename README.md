@@ -4,6 +4,6 @@
 ### R-файл с кодом для построения гистограмм, доступен в репозитории src и продублирован [тут](https://github.com/dannygrig/hse_hw1_meth/blob/main/src/dz1_meth.R)
 ### Bash-скрипт для одновременной дедупликации образцов (бонусное задание) продемонстрирован в гугл колабе выше
 #### **Уровень метилирования и покрытия для трёх образцов**
-#### ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov%20(2).png)
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov%20(2).png)
 #### **Уровень метилирования и покрытия, масштаб меньше**
-#### ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov_.png)
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov_.png)
