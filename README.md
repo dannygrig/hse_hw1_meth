@@ -5,6 +5,15 @@
 #### Bash-скрипт для одновременной дедупликации образцов (бонусное задание) продемонстрирован в гугл колабе выше
 ## Анализ QC прочтений и особенности метилированного образца
  ![]()
+## Проценты дуплицированных прочтений для образцов
+## M-Bias Plots
+## Гистограммы распределения метилирования цитозинов
+**SRR5836473 - 8 Cell**
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR5836473.png)
+**SRR5836475 - ICM**
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR5836475.png)
+**SRR3824222 - Epiblast**
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR3824222.png)
 ## Графики уровня метилирования образцов
 #### **Уровень метилирования и покрытия для трёх образцов**
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov%20(2).png)
