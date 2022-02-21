@@ -8,6 +8,12 @@
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_content.png)
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_dup_lvl.png)
 ## Проценты дуплицированных прочтений для образцов
+| Стадия | Дупликации, % | Картированные риды на 11347700-11367700 | Картированные риды на 40185800-40195800 |
+| --- | --- | --- | --- |
+| 8 cell - SRR5836473 | 18.30 | 1090 | 464 |
+| ICM - SRR5836475 | 9.08 | 1456 | 630 |
+| Epiblast - SRR3824222 | 2.92 | 2328 | 1062 |
+#### Данные отчетов Бисмарка в [этой](https://github.com/dannygrig/hse_hw1_meth/tree/main/data) папке
 ## M-Bias Plots
 #### SRR5836473 - 8 Cell
 | Read 1  | Read 2 |
