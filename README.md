@@ -50,3 +50,4 @@
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov%20(2).png)
 #### **Уровень метилирования и покрытия, масштаб меньше**
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/image_cov_.png)
+#### Можно заметить, что здесь тоже соблюдается пропорция метилирования, которую можно выразить в соотношении SRR3824222 - Epiblast > SRR5836473 - 8 Cell > SRR5836475 - ICM
