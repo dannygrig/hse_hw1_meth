@@ -29,8 +29,10 @@
 | ------------- | ------------- |
 | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%201%20Epiblast.png)  | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%202%20Epiblast.png)  |
 #### Исходя из графиков можно заметить, что уровень метилирования на довольно высоком уровне у образца 8 cell (CpG колеблется в районе 43-44%), значительно ниже ICM (CpG 23%), максимален в образце Epiblast (CpG 77%). Наблюдаются "волны" метилирования и деметилирования. Это согласуется с информацией, данной в статье, и представленном в задании графике: минимум наблюдается в области ICM.
- ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/article_meth.jpg)
+
 #### График распределения метилирования цитозинов из статьи  
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/article_meth.jpg)
+
 ## Гистограммы распределения метилирования цитозинов
 #### **SRR5836473 - 8 Cell**
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR5836473.png)
