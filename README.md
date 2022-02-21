@@ -11,6 +11,14 @@
 | Read 1  | Read 2 |
 | ------------- | ------------- |
 | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%201%208%20cell.png)  | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%202%208%20cell.png)  |
+#### SRR5836475 - ICM
+| Read 1  | Read 2 |
+| ------------- | ------------- |
+| ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%201%20ICM.png)  | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%202%20ICM.png)  |
+#### SRR3824222 - Epiblast
+| Read 1  | Read 2 |
+| ------------- | ------------- |
+| ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%201%20Epiblast.png)  | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%202%20Epiblast.png)  |
 ## Гистограммы распределения метилирования цитозинов
 #### **SRR5836473 - 8 Cell**
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR5836473.png)
