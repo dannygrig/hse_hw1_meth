@@ -4,7 +4,9 @@
 #### R-файл с кодом для построения гистограмм, доступен в репозитории src и продублирован [тут](https://github.com/dannygrig/hse_hw1_meth/blob/main/src/dz1_meth.R)
 #### Bash-скрипт для одновременной дедупликации образцов (бонусное задание) продемонстрирован в гугл колабе выше
 ## Анализ QC прочтений и особенности метилированного образца
- ![]()
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/gc_dist.png)
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_content.png)
+ ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_dup_lvl.png)
 ## Проценты дуплицированных прочтений для образцов
 ## M-Bias Plots
 #### SRR5836473 - 8 Cell
