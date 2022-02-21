@@ -7,7 +7,7 @@
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/gc_dist.png)
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_content.png)
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/seq_dup_lvl.png)
-## Проценты дуплицированных прочтений для образцов
+## Проценты дуплицированных прочтений для образцов и число картированных ридов на участках
 | Стадия | Дупликации, % | Картированные риды на 11347700-11367700 | Картированные риды на 40185800-40195800 |
 | --- | --- | --- | --- |
 | 8 cell - SRR5836473 | 18.30 | 1090 | 464 |
