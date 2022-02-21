@@ -7,6 +7,10 @@
  ![]()
 ## Проценты дуплицированных прочтений для образцов
 ## M-Bias Plots
+#### SRR5836473 - 8 Cell
+| Read 1  | Read 2 |
+| ------------- | ------------- |
+| ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%201%208%20cell.png)  | ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/Bismark%20M-bias%20Read%202%208%20cell.png)  |
 ## Гистограммы распределения метилирования цитозинов
 #### **SRR5836473 - 8 Cell**
  ![](https://github.com/dannygrig/hse_hw1_meth/blob/main/images/graph_SRR5836473.png)
